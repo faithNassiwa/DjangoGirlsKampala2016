@@ -1,4 +1,4 @@
-# DjangoGirlsKampala2k16
+# DjangoGirlsKampala2016
 
 FizzBuzz Game                                                                                                                             
 fizzbuzz.py is a python script that takes an interger input from a user, loops through interger number till the limit(number provided by 
